@@ -28,6 +28,7 @@ Pour radio Protronik Ptr6a v2 et récepteur R8x
 | Entrée CH6 (sécurité)| 2                           | PB3                        |
 | GND                 | 4                           | —                           |
 | VCC (5V)            | 8                           | —                           |
+| PULL-UP 10kohms     | 1                           | PB5 (RESET)                 |
 
 <img width="792" height="429" alt="image" src="https://github.com/user-attachments/assets/00689fd2-e8fa-4e0c-b6da-dba59542c054" />
 
